@@ -11,8 +11,8 @@ hi im ziz. thats all for this section.
  
 ### some links
 
-[monkeytype profile](https://monkeytype.com/profile/not_ziz)
-[forked monkeytype repository where i do my edits and stuff](https://github.com/proziz/monkeytype)
+- [monkeytype profile](https://monkeytype.com/profile/not_ziz)
+- [forked monkeytype repository where i do my edits and stuff](https://github.com/proziz/monkeytype)
 
 
 

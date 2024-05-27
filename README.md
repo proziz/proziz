@@ -5,14 +5,11 @@ hi im ziz. thats all for this section.
 ## info about me
 
 - he/him
-- small time monkeytype contributor
-  - i add quotes, themes, just small stuff basically
 - keyboard: g512 carbon (gx red), rgb mechanical gaming keyboard
  
-### some links
+### links
 
 - [monkeytype profile](https://monkeytype.com/profile/not_ziz)
-- [forked monkeytype repository where i do my edits and stuff](https://github.com/proziz/monkeytype)
 
 
 

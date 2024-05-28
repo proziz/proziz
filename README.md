@@ -11,7 +11,10 @@ hi im ziz. thats all for this section.
 
 - [monkeytype profile](https://monkeytype.com/profile/not_ziz)
 
+### current projects
 
+- sweetBot (discord bot for troubleshooting and learning js)
+- miltonWARE (a discord bot customized for a certain roblox police department)
 
 #### contact
 

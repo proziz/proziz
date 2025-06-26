@@ -2,10 +2,9 @@
 
 hi im ziz. thats all for this section.
 
-## info about me
+### uhhhhhh
 
-- he/him
-- keyboard: g512 carbon (gx red), rgb mechanical gaming keyboard
+keyboard: g512 carbon (gx red), rgb mechanical gaming keyboard
  
 ### links
 
@@ -13,8 +12,8 @@ hi im ziz. thats all for this section.
 
 ### current projects
 
-- sweetBot (discord bot for troubleshooting and learning js)
-- miltonWARE (a discord bot customized for a certain roblox police department)
+- python project
+- respolight
 
 #### contact
 

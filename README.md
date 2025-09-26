@@ -10,11 +10,6 @@ keyboard: g512 carbon (gx red), rgb mechanical gaming keyboard
 
 - [monkeytype profile](https://monkeytype.com/profile/not_ziz)
 
-### current projects
-
-- python project
-- respolight
-
 #### contact
 
 need to reach me? `not_ziz` is the place to reach me on discord!
